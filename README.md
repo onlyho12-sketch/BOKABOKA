@@ -3,6 +3,10 @@
 두산 M0609 협동로봇 + OnRobot RG2 그리퍼로 **부침개**와 **볶음밥**을 조리하고,
 손님이 QR로 주문하면 관리자가 조리를 시작시키는 테이블 오더 시스템입니다.
 
+[![시연 영상](docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/BOKABOKA/releases/download/demo/demo.mp4)
+
+<sub>▶ 이미지를 클릭하면 시연 영상(2분 12초)을 볼 수 있습니다.</sub>
+
 ```
 손님 폰 (QR)  →  주문  →  관리자 UI  →  "조리 시작"  →  로봇 조리
                               ↑                            │
